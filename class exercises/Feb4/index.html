@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html ng-app="basketball">
+<head>
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <link href="css/custom.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+  <script type="text/javascript" src="js/angular.min.js"></script>
+  <script type="text/javascript" src="js/app.js"></script>
+  <script src="js/basketball.js"></script>
+</head>
+
+<body ng-controller="BasketballController as basket">
+  <div class="container">
+    <h2>2015-2016 North Carolina Men's Basketball</h2>
+    <div>
+      <b>Sort by: </b>{{sortType | capitalize}} | <b>Sort reverse: </b>{{sortReverse}} | <b>Search Query:</b> {{searchPlayers}}<br /><br />
+    </div>
+
+    <form>
+      <div class="form-group">
+        <div class="input-group">
+          <div class="input-group-addon"><i class="fa fa-search"></i></div>
+
+          <input type="text" class="form-control" placeholder="Search the players" ng-model="searchPlayers">
+
+        </div>
+      </div>
+    </form>
+
+    <table class="table table-bordered table-striped">
+        <thead>
+          <tr>
+            <!-- <td>
+              Photo
+            </td> -->
+            <td>
+              <a href="#" ng-click="sortType = 'last'; sortReverse = !sortReverse">Name
+                <span ng-show="sortType == 'last' && !sortReverse" class="fa fa-caret-down"></span>
+                <span ng-show="sortType == 'last' && sortReverse" class="fa fa-caret-up"></span></a>
+            </td>
+            <td>
+              <a href="#" ng-click="sortType = 'position'; sortReverse = !sortReverse">Position
+                <span ng-show="sortType == 'position' && !sortReverse" class="fa fa-caret-down"></span>
+                <span ng-show="sortType == 'position' && sortReverse" class="fa fa-caret-up"></span></a>
+            </td>
+            <td>
+              <a href="#" ng-click="sortType = 'height'; sortReverse = !sortReverse">Height
+                <span ng-show="sortType == 'height' && !sortReverse" class="fa fa-caret-down"></span>
+                <span ng-show="sortType == 'height' && sortReverse" class="fa fa-caret-up"></span></a>
+            </td>
+            <td>
+              <a href="#" ng-click="sortType = 'year'; sortReverse = !sortReverse">Year
+                <span ng-show="sortType == 'year' && !sortReverse" class="fa fa-caret-down"></span>
+                <span ng-show="sortType == 'year' && sortReverse" class="fa fa-caret-up"></span></a>
+            </td>
+            <td>
+              <a href="#" ng-click="sortType = 'games'; sortReverse = !sortReverse">Games
+                <span ng-show="sortType == 'games' && !sortReverse" class="fa fa-caret-down"></span>
+                <span ng-show="sortType == 'games' && sortReverse" class="fa fa-caret-up"></span></a>
+            </td>
+            <td>
+              <a href="#" ng-click="sortType = 'points'; sortReverse = !sortReverse">Points
+                <span ng-show="sortType == 'points' && !sortReverse" class="fa fa-caret-down"></span>
+                <span ng-show="sortType == 'points' && sortReverse" class="fa fa-caret-up"></span></a>
+            </td>
+            <td>
+              <a href="#" ng-click="sortType = 'fieldGoals'; sortReverse = !sortReverse">Shooting %
+                <span ng-show="sortType == 'fieldGoals' && !sortReverse" class="fa fa-caret-down"></span>
+                <span ng-show="sortType == 'fieldGoals' && sortReverse" class="fa fa-caret-up"></span></a>
+            </td>
+            <td>
+              <a href="#" ng-click="sortType = 'assists'; sortReverse = !sortReverse">Assists
+                <span ng-show="sortType == 'assists' && !sortReverse" class="fa fa-caret-down"></span>
+                <span ng-show="sortType == 'assists' && sortReverse" class="fa fa-caret-up"></span></a>
+            </td>
+          </tr>
+        </thead>
+        <tbody>
+          <tr ng-repeat="player in basket.players | orderBy:sortType:sortReverse | filter:searchPlayers">
+            <!-- <td><img src="{{ player.images[0] }}" class="img-responsive" ng-hide="{{player.images}}"></td> -->
+            <td>{{ player.first }} {{ player.last }}</td>
+            <td>{{ player.position }}</td>
+            <td>{{ player.height }}</td>
+            <td>{{ player.year }}</td>
+            <td>{{ player.games }}</td>
+            <td>{{ player.points }}</td>
+            <td>{{ player.fieldGoals + player.freeThrows / player.fieldGoalsAttempted + player.freeThrowsAttempted | number: 1 }}</td>
+            <td>{{ player.assists }}</td>
+          </tr>
+        </tbody>
+  </table>
+</body>
+</html>

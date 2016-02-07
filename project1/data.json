@@ -1,0 +1,1604 @@
+{
+  "seats":[
+    {
+      "Alabama-1": {
+        "incumbent": {
+          "name": "Richard Shelby",
+          "party": "Republican",
+        },
+        "open": true,
+        "featuredCandidate": {
+          "name": "Richard Shelby",
+          "party": "Republican",
+          "photo": "",
+          "bio": "",
+          "platform": ""
+        },
+        "otherCandidates": [{
+          "name": "Marcus Bowman",
+          "party": "Republican"
+        },
+        {
+          "name": "John Martin",
+          "party": "Republican"
+        },
+        {
+          "name": "Jonathan McConnell",
+          "party": "Republican"
+        },
+        {
+          "name": "Shadrack McGill",
+          "party": "Republican"
+        },
+        {
+          "name": "Charles Nana",
+          "party": "Democratic"
+        },
+        {
+          "name": "Ron Crumpton",
+          "party": "Democratic"
+        }]
+      }
+    },
+    {
+      "Alabama-2": {
+        "incumbent": {
+          "name": "Jeff Sessions",
+          "party": "Republican",
+          },
+        "open": false
+      }
+    },
+    {
+      "Alaska-1": {
+        "incumbent": {
+          "name": "Lisa Murkowski",
+          "party": "Republican",
+          },
+        "open": true,
+        "featuredCandidate": {
+          "name": "Lisa Murkowski",
+          "party": "Republican",
+          "photo": "",
+          "bio": "",
+          "platform": ""
+        },
+        "otherCandidates": [{
+          "name": "Thomas Lamb",
+          "party": "Republican"
+        },
+        {
+          "name": "Cean Stevens",
+          "party": "Libertarian"
+        }]
+      }
+    },
+    {
+      "Alaska-2": {
+        "incumbent": {
+          "name": "Dan Sullivan",
+          "party": "Republican",
+          },
+        "open": false
+      }
+    },
+    {
+      "Arizona-1": {
+        "incumbent": {
+          "name": "John McCain",
+          "party": "Republican",
+          },
+        "open": true,
+        "featuredCandidate": {
+          "name": "Ann Kirkpatrick",
+          "party": "Democratic",
+          "photo": "",
+          "bio": "",
+          "platform": ""
+        },
+        "otherCcandidates": [{
+          "name": "John McCain",
+          "party": "Republican"
+        },
+        {
+          "name": "Lennie Clark",
+          "party": "Democratic"
+        },
+        {
+          "name": "Alex Melusky",
+          "party": "Republican"
+        },
+        {
+          "name": "David Pizer",
+          "party": "Republican"
+        },
+        {
+          "name": "Clair Van Steenwyck",
+          "party": "Republican"
+        },
+        {
+          "name": "Kelli Ward",
+          "party": "Republican"
+        }]
+      }
+    },
+    {
+      "Arizona-2": {
+        "incumbent": {
+          "name": "Jeff Flake",
+          "party": "Republican",
+          },
+        "open": false
+      }
+    },
+    {
+      "Arkansas-1": {
+        "incumbent": {
+          "name": "John Boozman",
+          "party": "Republican",
+          },
+        "open": true,
+        "featuredCandidate": {
+          "name": "Conner Eldridge",
+          "party": "Democratic",
+          "photo": "",
+          "bio": "",
+          "platform": ""
+        },
+        "otherCandidates": [{
+          "name": "John Boozman",
+          "party": "Republican"
+        },
+        {
+          "name": "Curtis Coleman",
+          "party": "Republican"
+        },
+        {
+          "name": "Frank Gilbert",
+          "party": "Libertarian"
+        }]
+      }
+    },
+    {
+      "Arkansas-2": {
+        "incumbent": {
+          "name": "Tom Cotton",
+          "party": "Republican",
+          },
+        "open": false
+      }
+    },
+    {
+      "California-1": {
+        "incumbent": {
+          "name": "Dianne Feinstein",
+          "party": "Democratic",
+          },
+        "open": false
+      }
+    },
+    {
+      "California-2": {
+        "incumbent": {
+          "name": "Barbara Boxer",
+          "party": "Democratic",
+          },
+        "open": true,
+        "featuredCandidate": {
+          "name": "Kamala Harris",
+          "party": "Democratic",
+          "photo": "",
+          "bio": "",
+          "platform": ""
+        },
+        "otherCandidates": [{
+          "name": "Loretta Sanchez",
+          "party": "Democratic"
+        },
+        {
+          "name": "Rocky Chavez",
+          "party": "Republican"
+        },
+        {
+          "name": "Tom Del Beccaro",
+          "party": "Republican"
+        },
+        {
+          "name": "Duf Sundheim",
+          "party": "Republican"
+        }]
+      }
+    },
+    {
+      "Colorado-1": {
+        "incumbent": {
+          "name": "Michael Bennet",
+          "party": "Democratic",
+          },
+        "open": true,
+        "featuredCandidate": {
+          "name": "Jon Keyser",
+          "party": "Republican",
+          "photo": "",
+          "bio": "",
+          "platform": ""
+        },
+        "otherCandidates": [{
+          "name": "Michael Bennet",
+          "party": "Democratic"
+        },
+        {
+          "name": "Robert Blaha",
+          "party": "Republican"
+        },
+        {
+          "name": "Ryan Frazier",
+          "party": "Republican"
+        },
+        {
+          "name": "Darryl Glenn",
+          "party": "Republican"
+        },
+        {
+          "name": "Jack Graham",
+          "party": "Republican"
+        },
+        {
+          "name": "Peggy Littleton",
+          "party": "Republican"
+        },
+        {
+          "name": "Greg Lopez",
+          "party": "Republican"
+        },
+        {
+          "name": "Tim Neville",
+          "party": "Republican"
+        },
+        {
+          "name": "Donald Rosier",
+          "party": "Republican"
+        }]
+      }
+    },
+    {
+      "Colorado-2": {
+        "incumbent": {
+          "name": "Cory Gardner",
+          "party": "Republican",
+          },
+        "open": false
+      }
+    },
+    {
+      "Connecticut-1": {
+        "incumbent": {
+          "name": "Richard Blumenthal",
+          "party": "Democratic",
+          },
+        "open": true,
+        "featuredCandidate": {
+          "name": "August Wolf",
+          "party": "Republican",
+          "photo": "",
+          "bio": "",
+          "platform": ""
+        },
+        "otherCandidates": [{
+          "name": "Richard Blumenthal",
+          "party": "Democratic"
+        }]
+      }
+    },
+    {
+      "Connecticut-2": {
+        "incumbent": {
+          "name": "Chris Murphy",
+          "party": "Democratic",
+          },
+        "open": false
+      }
+    },
+    {
+      "Delaware-1": {
+        "incumbent": {
+          "name": "Tom Carper",
+          "party": "Democratic",
+          },
+        "open": false
+      }
+    },
+    {
+      "Delaware-2": {
+        "incumbent": {
+          "name": "Chris Coons",
+          "party": "Democratic",
+          },
+        "open": false
+      }
+    },
+    {
+      "Florida-1": {
+        "incumbent": {
+          "name": "Bill Nelson",
+          "party": "Democratic",
+          },
+        "open": false
+      }
+    },
+    {
+      "Florida-2": {
+        "incumbent": {
+          "name": "Marco Rubio",
+          "party": "Republican",
+          },
+        "open": true,
+        "featuredCandidate": {
+          "name": "Patrick Murphy",
+          "party": "Democratic",
+          "photo": "",
+          "bio": "",
+          "platform": ""
+        },
+        "otherCandidates": [{
+          "name": "Ron DeSantis",
+          "party": "Democratic"
+        },
+        {
+          "name": "David Jolly",
+          "party": "Republican"
+        },
+        {
+          "name": "Carlos Lopez-Cantera",
+          "party": "Republican"
+        },
+        {
+          "name": "Todd Wilcox",
+          "party": "Republican"
+        },
+        {
+          "name": "Alan Grayson",
+          "party": "Democratic"
+        },
+        {
+          "name": "Pam Keith",
+          "party": "Democratic"
+        }]
+      }
+    },
+    {
+      "Georgia-1": {
+        "incumbent": {
+          "name": "Johnny Isakson",
+          "party": "Republican",
+          },
+        "open": true,
+        "featuredCandidate": {
+          "name": "Johnny Isakson",
+          "party": "Republican",
+          "photo": "",
+          "bio": "",
+          "platform": ""
+        },
+        "otherCandidates": [{
+          "name": "Lee Benedict",
+          "party": "Republican"
+        },
+        {
+          "name": "Derrick Grayson",
+          "party": "Republican"
+        }]
+      }
+    },
+    {
+      "Georgia-2": {
+        "incumbent": {
+          "name": "David Perdue",
+          "party": "Republican",
+          },
+        "open": false
+      }
+    },
+    {
+      "Hawaii-1": {
+        "incumbent": {
+          "name": "Mazie Hirono",
+          "party": "Democratic",
+          },
+        "open": false
+      }
+    },
+    {
+      "Hawaii-2": {
+        "incumbent": {
+          "name": "Brian Schatz",
+          "party": "Democratic",
+          },
+        "open": true,
+        "featuredCandidate": {
+          "name": "Brian Schatz",
+          "party": "Democratic",
+          "photo": "",
+          "bio": "",
+          "platform": ""
+        },
+        "otherCandidates": [{
+          "name": "Charles Collins",
+          "party": "Republican"
+        }]
+      }
+    },
+    {
+      "Idaho-1": {
+        "incumbent": {
+          "name": "Mike Crapo",
+          "party": "Republican",
+          },
+        "open": true,
+        "featuredCandidate": {
+          "name": "Mike Crapo",
+          "party": "Republican",
+          "photo": "",
+          "bio": "",
+          "platform": ""
+        },
+        "otherCandidates": false
+      }
+    },
+    {
+      "Idaho-2": {
+        "incumbent": {
+          "name": "Jim Risch",
+          "party": "Republican",
+          },
+        "open": false
+      }
+    },
+    {
+      "Illinois-1": {
+        "incumbent": {
+          "name": "Dick Durbin",
+          "party": "Democratic",
+          },
+        "open": false
+      }
+    },
+    {
+      "Illinois-2": {
+        "incumbent": {
+          "name": "Mark Kirk",
+          "party": "Republican",
+          },
+        "open": true,
+        "featuredCandidate": {
+          "name": "Tammy Duckworth",
+          "party": "Democratic",
+          "photo": "",
+          "bio": "",
+          "platform": ""
+        },
+        "otherCandidates": [{
+          "name": "Mark Kirk",
+          "party": "Republican"
+        },
+        {
+          "name": "James Marter",
+          "party": "Republican"
+        },
+        {
+          "name": "Napoleon Harris",
+          "party": "Deocratic"
+        },
+        {
+          "name": "Andrea Zopp",
+          "party": "Republican"
+        }]
+      }
+    },
+    {
+      "Indiana-1": {
+        "incumbent": {
+          "name": "Dan Coats",
+          "party": "Republican",
+          },
+        "open": true,
+        "featuredCandidate": {
+          "name": "Todd Young",
+          "party": "Republican",
+          "photo": "",
+          "bio": "",
+          "platform": ""
+        },
+        "otherCandidates": [{
+          "name": "Baron Hill",
+          "party": "Democratic"
+        },
+        {
+          "name": "Eric Holcomb",
+          "party": "Republican"
+        },
+        {
+          "name": "Marlin Stutzman",
+          "party": "Republican"
+        }]
+      }
+    },
+    {
+      "Indiana-2": {
+        "incumbent": {
+          "name": "Joe Donnelly",
+          "party": "Democratic",
+          },
+        "open": false
+      }
+    },
+    {
+      "Iowa-1": {
+        "incumbent": {
+          "name": "Chuck Grassley",
+          "party": "Republican",
+          },
+        "open": true,
+        "featuredCandidate": {
+          "name": "Rob Hogg",
+          "party": "Democratic",
+          "photo": "",
+          "bio": "",
+          "platform": ""
+        },
+        "otherCandidates": [{
+          "name": "Chuck Grassley",
+          "party": "Republican"
+        },
+        {
+          "name": "Tom Fiegen",
+          "party": "Democratic"
+        }]
+      }
+    },
+    {
+      "Iowa-2": {
+        "incumbent": {
+          "name": "Joni Ernst",
+          "party": "Republican",
+          },
+        "open": false
+      }
+    },
+    {
+      "Kansas-1": {
+        "incumbent": {
+          "name": "Pat Roberts",
+          "party": "Republican",
+          },
+        "open": false
+      }
+    },
+    {
+      "Kansas-2": {
+        "incumbent": {
+          "name": "Jerry Moran",
+          "party": "Republican",
+          },
+        "open": true,
+        "featuredCandidate": {
+          "name": "Jerry Moran",
+          "party": "Republican",
+          "photo": "",
+          "bio": "",
+          "platform": ""
+        },
+        "otherCandidates": false
+      }
+    },
+    {
+      "Kentucky-1": {
+        "incumbent": {
+          "name": "Mitch McConnell",
+          "party": "Republican",
+          },
+        "open": false
+      }
+    },
+    {
+      "Kentucky-2": {
+        "incumbent": {
+          "name": "Rand Paul",
+          "party": "Republican",
+          },
+        "open": true,
+        "featuredCandidate": {
+          "name": "Jim Gray",
+          "party": "Democratic",
+          "photo": "",
+          "bio": "",
+          "platform": ""
+        },
+        "otherCandidates": [{
+          "name": "Rand Paul",
+          "party": "Republican"
+        },
+        {
+          "name": "Rory Houlihan",
+          "party": "Democratic"
+        },
+        {
+          "name": "Jeff Kender",
+          "party": "Democratic"
+        },
+        {
+          "name": "Ron Leach",
+          "party": "Democratic"
+        },
+        {
+          "name": "Tom Recktenwald",
+          "party": "Democratic"
+        },
+        {
+          "name": "Grant Short",
+          "party": "Democratic"
+        },
+        {
+          "name": "Sellus Wilder",
+          "party": "Democratic"
+        },
+        {
+          "name": "James Gould",
+          "party": "Republican"
+        },
+        {
+          "name": "Stephen Slaughter",
+          "party": "Republican"
+        }]
+      }
+    },
+    {
+      "Louisiana-1": {
+        "incumbent": {
+          "name": "David Vitter",
+          "party": "Republican",
+          },
+        "open": true,
+        "featuredCandidate": {
+          "name": "Charles Boustany",
+          "party": "Republican",
+          "photo": "",
+          "bio": "",
+          "platform": ""
+        },
+        "otherCandidates": [{
+          "name": "Joseph Cao",
+          "party": "Republican"
+        },
+        {
+          "name": "John Fleming",
+          "party": "Republican"
+        },
+        {
+          "name": "John Kennedy",
+          "party": "Republican"
+        },
+        {
+          "name": "Rob Maness",
+          "party": "Republican"
+        },
+        {
+          "name": "Troy Hebert",
+          "party": "Independent"
+        }]
+      }
+    },
+    {
+      "Louisiana-2": {
+        "incumbent": {
+          "name": "Bill Cassidy",
+          "party": "Republican",
+          },
+        "open": false
+      }
+    },
+    {
+      "Maine-1": {
+        "incumbent": {
+          "name": "Susan Collins",
+          "party": "Republican",
+          },
+        "open": false
+      }
+    },
+    {
+      "Maine-2": {
+        "incumbent": {
+          "name": "Angus King",
+          "party": "Independent",
+          },
+        "open": false
+      }
+    },
+    {
+      "Maryland-1": {
+        "incumbent": {
+          "name": "Barbars Mikulski",
+          "party": "Democratic",
+          },
+        "open": true,
+        "featuredCandidate": {
+          "name": "Donna Edwards",
+          "party": "Democratic",
+          "photo": "",
+          "bio": "",
+          "platform": ""
+        },
+        "otherCandidates": [{
+          "name": "Freddie Donald Dickson Jr.",
+          "party": "Democratic"
+        },
+        {
+          "name": "Ralph Jaffe",
+          "party": "Democratic"
+        },
+        {
+          "name": "Charles U. Smith",
+          "party": "Democratic"
+        },
+        {
+          "name": "Violet Staley",
+          "party": "Democratic"
+        },
+        {
+          "name": "Blaine Taylor",
+          "party": "Democratic"
+        },
+        {
+          "name": "Ed Tinus",
+          "party": "Democratic"
+        },
+        {
+          "name": "Chris Van Hollen",
+          "party": "Democratic"
+        },
+        {
+          "name": "Lih Young",
+          "party": "Democratic"
+        },
+        {
+          "name": "Chris Chafee",
+          "party": "Republican"
+        },
+        {
+          "name": "Sean Conner",
+          "party": "Republican"
+        },
+        {
+          "name": "Richard Douglas",
+          "party": "Republican"
+        },
+        {
+          "name": "John R. Graziani",
+          "party": "Republican"
+        },
+        {
+          "name": "Greg Holmes",
+          "party": "Republican"
+        },
+        {
+          "name": "Joseph David Hooe",
+          "party": "Republican"
+        },
+        {
+          "name": "Chrya Kefalas",
+          "party": "Republican"
+        },
+        {
+          "name": "Mark McNicholas",
+          "party": "Republican"
+        },
+        {
+          "name": "Lynn Richardson",
+          "party": "Republican"
+        },
+        {
+          "name": "Anthony Seda",
+          "party": "Republican"
+        },
+        {
+          "name": "Richard Shawver",
+          "party": "Republican"
+        },
+        {
+          "name": "Kathy Szeglia",
+          "party": "Republican"
+        },
+        {
+          "name": "Dave Wallace",
+          "party": "Republican"
+        },
+        {
+          "name": "Frank Gilbert",
+          "party": "Garry T. Yarrington"
+        }]
+      }
+    },
+    {
+      "Maryland-2": {
+        "incumbent": {
+          "name": "Ben Cardin",
+          "party": "Democratic",
+          },
+        "open": false
+      }
+    },
+    {
+      "Masscachusetts-1": {
+        "incumbent": {
+          "name": "Elizabeth Warren",
+          "party": "Democratic",
+          },
+        "open": false
+      }
+    },
+    {
+      "Massachusetts-2": {
+        "incumbent": {
+          "name": "Ed Markey",
+          "party": "Democratic",
+          },
+        "open": false
+      }
+    },
+    {
+      "Michigan-1": {
+        "incumbent": {
+          "name": "Debbie Stabenow",
+          "party": "Democratic",
+          },
+        "open": false
+      }
+    },
+    {
+      "Michigan-2": {
+        "incumbent": {
+          "name": "Gary Peters",
+          "party": "Democratic",
+          },
+        "open": false
+      }
+    },
+    {
+      "Minnesota-1": {
+        "incumbent": {
+          "name": "Amy Klubo=uchar",
+          "party": "Democratic",
+          },
+        "open": false
+      }
+    },
+    {
+      "Minnesota-2": {
+        "incumbent": {
+          "name": "Al Franken",
+          "party": "Democratic",
+          },
+        "open": false
+      }
+    },
+    {
+      "Mississippi-1": {
+        "incumbent": {
+          "name": "Thad Cochran",
+          "party": "Republican",
+          },
+        "open": false
+      }
+    },
+    {
+      "Mississippi-2": {
+        "incumbent": {
+          "name": "Roger Wicker",
+          "party": "Republican",
+          },
+        "open": false
+      }
+    },
+    {
+      "Missouri-1": {
+        "incumbent": {
+          "name": "Claire McCaskill",
+          "party": "Democratic",
+          },
+        "open": false
+      }
+    },
+    {
+      "Missouri-2": {
+        "incumbent": {
+          "name": "Roy Blunt",
+          "party": "Republican",
+          },
+        "open": true,
+        "featuredCandidate": {
+          "name": "Jason Kander",
+          "party": "Democratic",
+          "photo": "",
+          "bio": "",
+          "platform": ""
+        },
+        "otherCandidates": [{
+          "name": "Roy Blunt",
+          "party": "Republican"
+        },
+        {
+          "name": "Christipher Batsche",
+          "party": "Republican"
+        },
+        {
+          "name": "MD Rabbi Alam",
+          "party": "Democratic"
+        }]
+      }
+    },
+    {
+      "Montana-1": {
+        "incumbent": {
+          "name": "Jon Tester",
+          "party": "Democratic",
+          },
+        "open": false
+      }
+    },
+    {
+      "Montana-2": {
+        "incumbent": {
+          "name": "Steve Daines",
+          "party": "Republican",
+          },
+        "open": false
+      }
+    },
+    {
+      "Nebraska-1": {
+        "incumbent": {
+          "name": "Deb Fischer",
+          "party": "Republican",
+          },
+        "open": false
+      }
+    },
+    {
+      "Nebraska-2": {
+        "incumbent": {
+          "name": "Ben Sassa",
+          "party": "Republican",
+          },
+        "open": false
+      }
+    },
+    {
+      "Nevada-1": {
+        "incumbent": {
+          "name": "Harry Reid",
+          "party": "Democratic",
+          },
+        "open": true,
+        "featuredCandidate": {
+          "name": "Catherine Cortez Masto",
+          "party": "Democratic",
+          "photo": "",
+          "bio": "",
+          "platform": ""
+        },
+        "otherCandidates": [{
+          "name": "Joe Heck",
+          "party": "Republican"
+        }]
+      }
+    },
+    {
+      "Nevada-2": {
+        "incumbent": {
+          "name": "Dean Heller",
+          "party": "Republican",
+          },
+        "open": false
+      }
+    },
+    {
+      "New Hampshire-1": {
+        "incumbent": {
+          "name": "Jeanne Shaheen",
+          "party": "Democratic",
+          },
+        "open": false
+      }
+    },
+    {
+      "New Hampshire-2": {
+        "incumbent": {
+          "name": "Kelly Ayotte",
+          "party": "Republican",
+          },
+        "open": true,
+        "featuredCandidate": {
+          "name": "Maggie Hassan",
+          "party": "Democratic",
+          "photo": "",
+          "bio": "",
+          "platform": ""
+        },
+        "otherCandidates": [{
+          "name": "Kelly Ayotte",
+          "party": "Republican"
+        }]
+      }
+    },
+    {
+      "New Jersey-1": {
+        "incumbent": {
+          "name": "Bob Menendez",
+          "party": "Democratic",
+          },
+        "open": false
+      }
+    },
+    {
+      "New Jersey-2": {
+        "incumbent": {
+          "name": "Cory Booker",
+          "party": "Democratic",
+          },
+        "open": false
+      }
+    },
+    {
+      "New Mexico-1": {
+        "incumbent": {
+          "name": "Tom Udall",
+          "party": "Democratic",
+          },
+        "open": false
+      }
+    },
+    {
+      "New Mexico-2": {
+        "incumbent": {
+          "name": "Martin Heinrich",
+          "party": "Democratic",
+          },
+        "open": false
+      }
+    },
+    {
+      "New York-1": {
+        "incumbent": {
+          "name": "Chuck Schumer",
+          "party": "Democratic",
+          },
+        "open": true,
+        "featuredCandidate": {
+          "name": "Chuck Schumer",
+          "party": "Democratic",
+          "photo": "",
+          "bio": "",
+          "platform": ""
+        },
+        "otherCandidates": false
+      }
+    },
+    {
+      "New York-2": {
+        "incumbent": {
+          "name": "Kirsten Gillibrand",
+          "party": "Democratic",
+          },
+        "open": false
+      }
+    },
+    {
+      "North Carolina-1": {
+        "incumbent": {
+          "name": "Richard Burr",
+          "party": "Republican",
+          },
+        "open": true,
+        "featuredCandidate": {
+          "name": "Deborah Ross",
+          "party": "Democratic",
+          "photo": "",
+          "bio": "",
+          "platform": ""
+        },
+        "otherCandidates": [{
+          "name": "Richard Burr",
+          "party": "Republican"
+        },
+        {
+          "name": "Greg Brannon",
+          "party": "Republican"
+        },
+        {
+          "name": "Larry Holmquist",
+          "party": "Republican"
+        },
+        {
+          "name": "Paul Wright",
+          "party": "Republican"
+        },
+        {
+          "name": "Chris Rey",
+          "party": "Democratic"
+        },
+        {
+          "name": "Kevin Griffin",
+          "party": "Democratic"
+        },
+        {
+          "name": "Ernest Reeves",
+          "party": "Democratic"
+        }]
+      }
+    },
+    {
+      "North Carolina-2": {
+        "incumbent": {
+          "name": "Thomm Tillis",
+          "party": "Republican",
+          },
+        "open": false
+      }
+    },
+    {
+      "North Dakota-1": {
+        "incumbent": {
+          "name": "John Hoeven",
+          "party": "Republican",
+          },
+        "open": true,
+        "featuredCandidate": {
+          "name": "John Hoeven",
+          "party": "Republican",
+          "photo": "",
+          "bio": "",
+          "platform": ""
+        },
+        "otherCandidates": [{
+          "name": "Robert Marquette",
+          "party": "Libertarian"
+        }]
+      }
+    },
+    {
+      "North Dakota-2": {
+        "incumbent": {
+          "name": "Heidi Heitkamp",
+          "party": "Democratic",
+          },
+        "open": false
+      }
+    },
+    {
+      "Ohio-1": {
+        "incumbent": {
+          "name": "Sherrod Brown",
+          "party": "Democratic",
+          },
+        "open": false
+      }
+    },
+    {
+      "Ohio-2": {
+        "incumbent": {
+          "name": "Rob Portman",
+          "party": "Republican",
+          },
+        "open": true,
+        "featuredCandidate": {
+          "name": "Ted Strickland",
+          "party": "Democratic",
+          "photo": "",
+          "bio": "",
+          "platform": ""
+        },
+        "otherCandidates": [{
+          "name": "Rob Portman",
+          "party": "Republican"
+        },
+        {
+          "name": "Don Elijah Eckhart",
+          "party": "Republican"
+        },
+        {
+          "name": "P.G. Sittenfeld",
+          "party": "Democratic"
+        },
+        {
+          "name": "Kelli Prather",
+          "party": "Democratic"
+        }]
+      }
+    },
+    {
+      "Oklahoma-1": {
+        "incumbent": {
+          "name": "James Lankford",
+          "party": "Republican",
+          },
+        "open": true,
+        "featuredCandidate": {
+          "name": "James Lankford",
+          "party": "Republican",
+          "photo": "",
+          "bio": "",
+          "platform": ""
+        },
+        "otherCandidates": false
+      }
+    },
+    {
+      "Oklahoma-2": {
+        "incumbent": {
+          "name": "Jim Inhofe",
+          "party": "Republican",
+          },
+        "open": false
+      }
+    },
+    {
+      "Oregon-1": {
+        "incumbent": {
+          "name": "Ron Wyden",
+          "party": "Democratic",
+          },
+        "open": true,
+        "featuredCandidate": {
+          "name": "Ron Wyden",
+          "party": "Democratic",
+          "photo": "",
+          "bio": "",
+          "platform": ""
+        },
+        "otherCandidates": [{
+          "name": "Mark Callahan",
+          "party": "Republican"
+        },
+        {
+          "name": "Dan Laschober",
+          "party": "Republican"
+        },
+        {
+          "name": "Faye Stewart",
+          "party": "Republican"
+        },
+        {
+          "name": "Kevin Stine",
+          "party": "Democratic"
+        }]
+      }
+    },
+    {
+      "Oregon-2": {
+        "incumbent": {
+          "name": "Jeff Merkley",
+          "party": "Democratic",
+          },
+        "open": false
+      }
+    },
+    {
+      "Pennsylvania-1": {
+        "incumbent": {
+          "name": "Bob Casey, Jr.",
+          "party": "Democratic",
+          },
+        "open": false
+      }
+    },
+    {
+      "Pennsylvania-2": {
+        "incumbent": {
+          "name": "Pat Toomey",
+          "party": "Republican",
+          },
+        "open": true,
+        "featuredCandidate": {
+          "name": "Joe Sestak",
+          "party": "Democratic",
+          "photo": "",
+          "bio": "",
+          "platform": ""
+        },
+        "otherCandidates": [{
+          "name": "Pat Toomey",
+          "party": "Republican"
+        },
+        {
+          "name": "Everett Stern",
+          "party": "Republican"
+        },
+        {
+          "name": "Kathleen McGinty",
+          "party": "Democratic"
+        },
+        {
+          "name": "John Fetterman",
+          "party": "Democratic"
+        }]
+      }
+    },
+    {
+      "Rhode Island-1": {
+        "incumbent": {
+          "name": "Jack Reed",
+          "party": "Democratic",
+          },
+        "open": false
+      }
+    },
+    {
+      "Rhose Island-2": {
+        "incumbent": {
+          "name": "Sheldon Whitehouse",
+          "party": "Democratic",
+          },
+        "open": false
+      }
+    },
+    {
+      "South Carolina-1": {
+        "incumbent": {
+          "name": "Lindsey Graham",
+          "party": "Republican",
+          },
+        "open": false
+      }
+    },
+    {
+      "South Carolina-2": {
+        "incumbent": {
+          "name": "Tim Scott",
+          "party": "Republican",
+          },
+        "open": true,
+        "featuredCandidate": {
+          "name": "Joyce Dickerson",
+          "party": "Democratic",
+          "photo": "",
+          "bio": "",
+          "platform": ""
+        },
+        "otherCandidates": [{
+          "name": "Tim Scott",
+          "party": "Republican"
+        }]
+      }
+    },
+    {
+      "South Dakota-1": {
+        "incumbent": {
+          "name": "John Thune",
+          "party": "Republican",
+          },
+        "open": true,
+        "featuredCandidate": {
+          "name": "John Thune",
+          "party": "Republican",
+          "photo": "",
+          "bio": "",
+          "platform": ""
+        },
+        "otherCandidates": false
+      }
+    },
+    {
+      "South Dakota-2": {
+        "incumbent": {
+          "name": "Mike Rounds",
+          "party": "Republican",
+          },
+        "open": false
+      }
+    },
+    {
+      "Tennessee-1": {
+        "incumbent": {
+          "name": "Lamar Alexander",
+          "party": "Republican",
+          },
+        "open": false
+      }
+    },
+    {
+      "Tennessee-2": {
+        "incumbent": {
+          "name": "Bob Corker",
+          "party": "Republican",
+          },
+        "open": false
+      }
+    },
+    {
+      "Texas-1": {
+        "incumbent": {
+          "name": "John Cornyn",
+          "party": "Republican",
+          },
+        "open": false
+      }
+    },
+    {
+      "Texas-2": {
+        "incumbent": {
+          "name": "Ted Cruz",
+          "party": "Republican",
+          },
+        "open": false
+      }
+    },
+    {
+      "Utah-1": {
+        "incumbent": {
+          "name": "Orrin Hatch",
+          "party": "Republican",
+          },
+        "open": false
+      }
+    },
+    {
+      "Utah-2": {
+        "incumbent": {
+          "name": "Mike Lee",
+          "party": "Republican",
+          },
+        "open": true,
+        "featuredCandidate": {
+          "name": "Mike Lee",
+          "party": "Republican",
+          "photo": "",
+          "bio": "",
+          "platform": ""
+        },
+        "otherCandidates": [{
+          "name": "Joyce Dickerson",
+          "party": "Democratic"
+        }]
+      }
+    },
+    {
+      "Vermont-1": {
+        "incumbent": {
+          "name": "Patrick Leahy",
+          "party": "Democratic",
+          },
+        "open": true,
+        "featuredCandidate": {
+          "name": "Patrick Leahy",
+          "party": "Democratic",
+          "photo": "",
+          "bio": "",
+          "platform": ""
+        },
+        "otherCandidates": false
+      }
+    },
+    {
+      "Vermont-2": {
+        "incumbent": {
+          "name": "Bernie Sanders",
+          "party": "Independent",
+          },
+        "open": false
+      }
+    },
+    {
+      "Virginia-1": {
+        "incumbent": {
+          "name": "Mark Warner",
+          "party": "Democratic",
+          },
+        "open": false
+      }
+    },
+    {
+      "Virginia-2": {
+        "incumbent": {
+          "name": "Tim Kaine",
+          "party": "Democratic",
+          },
+        "open": false
+      }
+    },
+    {
+      "Washington-1": {
+        "incumbent": {
+          "name": "Patty Murray",
+          "party": "Democratic",
+          },
+        "open": true,
+        "featuredCandidate": {
+          "name": "Chris Vance",
+          "party": "Republican",
+          "photo": "",
+          "bio": "",
+          "platform": ""
+        },
+        "otherCandidates": [{
+          "name": "Patty Murray",
+          "party": "Democratic"
+        }]
+      }
+    },
+    {
+      "Washington-2": {
+        "incumbent": {
+          "name": "Maria Cantwell",
+          "party": "Democratic",
+          },
+        "open": false
+      }
+    },
+    {
+      "West Virginia-1": {
+        "incumbent": {
+          "name": "Joe Manchin",
+          "party": "Democratic",
+          },
+        "open": false
+      }
+    },
+    {
+      "West Virginia-2": {
+        "incumbent": {
+          "name": "Shelley Moore Capito",
+          "party": "Republican",
+          },
+        "open": false
+      }
+    },
+    {
+      "Wisconsin-1": {
+        "incumbent": {
+          "name": "Ron Johnson",
+          "party": "Republican",
+          },
+        "open": true,
+        "featuredCandidate": {
+          "name": "Russ Feingold",
+          "party": "Democratic",
+          "photo": "",
+          "bio": "",
+          "platform": ""
+        },
+        "otherCandidates": [{
+          "name": "Ron Johnson",
+          "party": "Democratic"
+        }]
+      }
+    },
+    {
+      "Wisconsin-2": {
+        "incumbent": {
+          "name": "Tammy Baldwin",
+          "party": "Democratic",
+          },
+        "open": false
+      }
+    },
+    {
+      "Wyoming-1": {
+        "incumbent": {
+          "name": "Mike Enzi",
+          "party": "Republican",
+          },
+        "open": false
+      }
+    },
+    {
+      "Wyoming-2": {
+        "incumbent": {
+          "name": "John Barrasso",
+          "party": "Republican",
+          },
+        "open": false
+      }
+    },
+  ]
+}

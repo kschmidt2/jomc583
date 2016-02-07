@@ -1,0 +1,44 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/* this is a custom CSS stylesheet */
+
+.body {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+.name {
+  font-size: 1.2em;
+  text-transform: uppercase;
+}
+
+.col-sm-2 {
+  padding: 8px;
+  text-align: center;
+  background-color: #dae5ef;
+  border: 3px solid white;
+}
+
+.bioinfo {
+  font-size: .7em;
+}
+
+.img-responsive {
+  height: 6em;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.table-striped > tbody > tr:nth-of-type(odd) {
+  background-color: #dae5ef;
+}
+
+.table a {
+  color: #7BAFD4;
+}
+
+.table a:hover {
+  color: white;
+  background: #7BAFD4;
+  text-decoration: none;
+}
