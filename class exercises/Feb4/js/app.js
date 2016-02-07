@@ -1,7 +1,7 @@
   var app = angular.module('basketball', [ ]);
 
   app.controller ('BasketballController', function($scope) {
-    $scope.sortType = "last";
+    // $scope.sortType = "last";
     $scope.sortReverse = false;
     $scope.searchPlayers = "";
     this.players = data;
